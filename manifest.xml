@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Medias</name>
+	<author>NoeLab</author>
+	<version>1.8test</version>
+	<category>bundled</category>
+	<category>content</category>
+	<category>widget</category>
+	<blurb>Add and comment medis.</blurb>
+	<description>Adds the ability for users to insert medias internal and external sites.</description>
+	<website>http://www.noelab.com/</website>
+	<copyright>See COPYRIGHT.txt</copyright>
+	<license>GNU Public License version 2</license>
+	<requires>
+		<type>elgg_version</type>
+		<version>2010030101</version>
+	</requires>
+	<activate_on_install>true</activate_on_install>
+	<admin_interface>simple</admin_interface>
+</plugin_manifest>
